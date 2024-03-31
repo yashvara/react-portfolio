@@ -12,6 +12,7 @@
   "dependencies": {
     "@fontsource/outfit": "^5.0.12",
     "@fontsource/roboto": "^5.0.12",
+    "lottie-react": "^2.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
