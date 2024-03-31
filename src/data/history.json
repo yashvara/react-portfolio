@@ -2,9 +2,9 @@
   {
     "role": "Software Engineer",
     "organisation": "Allysoftsolutions",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Api Maps", "Reduced load times by 50%"],
+    "startDate": "May, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Worked on React-js, Typescript", "Worked on Laravel", "API Testing with Postman"],
     "imageSrc": "history/allysoft.png"
   }
 ]
