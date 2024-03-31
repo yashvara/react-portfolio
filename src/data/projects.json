@@ -1,26 +1,20 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/projects.json",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Search Image Using API",    
+    "description": "This is a project made to learn usage of API in React-js.",
+    "skills": ["React", "API"],
+    "source": "https://github.com/yashvara/Search-Image-using-API"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "BMI Calculator",
+    "description": "This is a project made to learn the logic building in Flutter.",
+    "skills": ["Flutter"],
+    "source": "https://github.com/yashvara/BMI-Calculator-using-Flutter"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "AR-Clothing",
+    "description": "This is a project that overlays t-shirts on human  body using Pose Module.",
+    "skills": ["Python", "AI", "ML"],
+    "source": "https://github.com/yashvara/AR-Clothing"
   }
 ]
