@@ -60,6 +60,26 @@
   animation-timing-function: ease-in-out;
 }
 
+.links {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 600;
+  border-radius: 100px;
+  background: var(--color-primary);
+  padding: 1px 22px;
+}
+.link:hover {
+  cursor: pointer;
+}
+
 @keyframes floating {
   0% {
     transform: translate(0, 0px);

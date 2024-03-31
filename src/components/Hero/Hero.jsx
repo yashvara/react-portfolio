@@ -1,8 +1,16 @@
 import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
+import Resume from "../../../assets/hero/Resume.pdf";
 
 export const Hero = () => {
+  const handleDownloadResume = () => {
+    const downloadLink = document.createElement("a");
+    downloadLink.href = Resume;
+    downloadLink.download = "Resume.pdf";
+    downloadLink.click();
+  };
+
   return (
     <section className={styles.container}>
       <div className={styles.content}>
@@ -16,9 +24,11 @@ export const Hero = () => {
           I contribute to fostering a culture of excellence and collaboration in
           software development.
         </p>
-        <a href="mailto:yashvara3378@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <div className={styles.links}>
+          <a className={styles.link} onClick={handleDownloadResume}>
+            My Resume
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}

@@ -100,6 +100,14 @@
   margin-left: 17px;
 }
 
+.skillImageContainer:hover .skillImage {
+  transform: scale(1.2);
+}
+
+.skillImage {
+  transition: transform 0.3s ease-in-out;
+}
+
 @media screen and (max-width: 830px) {
   .content {
     flex-direction: column;
