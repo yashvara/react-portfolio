@@ -1,8 +1,8 @@
 [
   {
     "title": "Search Image Using API",    
-    "description": "This is a project made to learn usage of API in React-js.",
-    "skills": ["React", "API"],
+    "description": "This is a project made to learn usage of API in React-vite.",
+    "skills": ["React-Vite", "API"],
     "source": "https://github.com/yashvara/Search-Image-using-API"
   },
   {
