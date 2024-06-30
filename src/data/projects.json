@@ -1,15 +1,16 @@
 [
+
+  {
+    "title": "Prob AI Gaming",
+    "description": "Engage in conversations and Game with an AI powered by OpenAI's GPT-3",
+    "skills": ["Python", "API", "AI", "ML"],
+    "source": "https://github.com/yashvara/Prob-AI-Gaming"
+  },
   {
     "title": "Search Image Using API",    
     "description": "This is a project made to learn usage of API in React-vite.",
     "skills": ["React-Vite", "API"],
     "source": "https://github.com/yashvara/Search-Image-using-API"
-  },
-  {
-    "title": "Prob AI Gaming",
-    "description": "Engage in conversations and Game with an AI powered by OpenAI's GPT-3",
-    "skills": ["Python", "API", "AI", "ML"],
-    "source": "https://github.com/Mustafabharmal/Prob-AI-Gaming"
   },
   {
     "title": "AR-Clothing",
